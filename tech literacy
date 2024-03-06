@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div id="piracy" class="box">
+           <p> <a href="https://www.reddit.com/r/Piracy/wiki/megathread/">piracy megathread<a> <p>
+          <p>  <a href="https://doubledouble.top/">doubledouble<a> <p>
+          </div>
+          <div id="HTML, CSS, and the web" class="box">
+            <p> <a href="https://goblin-heart.net/sadgrl/">sadgrl.online<a> <p>
+            <p> <a href="https://code.visualstudio.com/">Visual Studio Code<a> <p>
+            <p> <a href="https://neocities.org/">Neocities</a> </p>
+            <p> <a href="https://www.w3schools.com/">W3Schools</a> </p>
+            <p> <a href="https://www.htmldog.com/">HTMLdog</a> </p>
+            <p> <a href="https://stackoverflow.com">stackoverflow</a></p>
+            <p> <a href="https://htmlcheatsheet.com/"> </a>stackoverflow</p>
+            </div>
+            <div id="Information Security" class="box">
+            <p> <a href="https://signal.org/">Signal</a> </p>
+            <p> <a href="https://proton.me/mail">ProtonMail</a> </p>
+            <p> <a href="https://duckduckgo.com/">DuckDuckGo</a> </p>
+            <p> <a href="">Mullvad VPN </a></p>
+            <p> <a href="https://itsgoingdown.org/activists-guide-information-security/">an Activists Guide to Information Security </a> </p>
+            </div>
+                
+            <div id="Digital Minimalism aka no smartphone" class="box">
+                <p> <a href="https://dumbphones.pory.app/">Dumbphone Finder</a> </p>
+                <p> <a href="https://www.rockbox.org/">Rockbox</a> </p>
+                
+                <style>
+                    .box {
+                        background-color: black;
+                        color: greenyellow;
+                        padding-left: 25px;
+                        padding-right: 25px;
+                        padding-top: 25px;
+                        padding-bottom: 25px;
+                        width: 500px;
+                        text-align: center;
+                        margin: 50px;
+                    }
+                    a:link {
+                        color: greenyellow;
+
+                    }
+                    a:visited {
+                        color: greenyellow;
+                    }
+                        </style>
+                       
+            </div>
+            </html>
